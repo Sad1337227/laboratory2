@@ -24,8 +24,8 @@ The Python code in this laboratory work provides several functions that implemen
 ## Description, conclusion:
 Converting an NDFA to a DFA is an important process in the study of finite automata, as it allows us to analyze and simplify the behavior of a given automaton. The conversion process involves eliminating the non-deterministic behavior of an NDFA and transforming it into a deterministic automaton. This results in a simpler and more efficient automaton that can be easily analyzed and understood. Determinism is an important property of finite automata, as it ensures that the automaton has a unique and well-defined behavior for any given input.
 ## References:
-    Hopcroft, John E., and Jeffrey D. Ullman. Introduction to Automata Theory, Languages, and Computation. Addison-Wesley, 1979.
-    Sipser, Michael. Introduction to the Theory of Computation. Cengage Learning, 2012.
-    "Automata Theory." GeeksforGeeks, https://www.geeksforgeeks.org/automata-theory/.
-    "Python | Automata Theory." GeeksforGeeks, https://www.geeksforgeeks.org/python-automata-theory/.
-    "Graphviz - Graph Visualization Software." Graphviz, https://graphviz.org/.
+* Hopcroft, John E., and Jeffrey D. Ullman. Introduction to Automata Theory, Languages, and Computation. Addison-Wesley, 1979.
+* Sipser, Michael. Introduction to the Theory of Computation. Cengage Learning, 2012.
+* "Automata Theory." GeeksforGeeks, https://www.geeksforgeeks.org/automata-theory/.
+* "Python | Automata Theory." GeeksforGeeks, https://www.geeksforgeeks.org/python-automata-theory/.
+* "Graphviz - Graph Visualization Software." Graphviz, https://graphviz.org/.
